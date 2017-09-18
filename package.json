@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "create-react-class": "^15.6.0",
+    "emptyfunction": "^1.0.0",
+    "eventemitter3": "^2.0.3",
+    "invariant": "^2.2.2",
+    "jsxstyle": "^1.0.2",
+    "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "react-timer-mixin": "^0.13.3",
+    "shallow-equals": "^1.0.0",
+    "tabbable": "^1.0.8",
+    "tether": "^1.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
